@@ -1,4 +1,4 @@
- Descripción del Proyecto: Calculadora Básica
+Descripción del Proyecto: Calculadora Básica
 Este proyecto consiste en una aplicación de consola llamada CalculadoraBasica, desarrollada como parte de la Actividad 3 de la Unidad 1.
 
 🎯 Objetivo:
